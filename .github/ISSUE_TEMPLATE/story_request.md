@@ -1,6 +1,7 @@
 ---
 name: Story
 about: Proposer une Story
+labels: STORY
 ---
 
 #### Story

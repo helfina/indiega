@@ -1,6 +1,7 @@
 ---
 name: Epic
 about: Proposer un Epic (big story)
+labels: EPIC
 ---
 
 #### Epic

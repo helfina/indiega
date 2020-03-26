@@ -1,6 +1,7 @@
 ---
 name: Task
 about: Proposer une tâche
+labels: TASK
 ---
 
 #### Problème identifié
