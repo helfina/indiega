@@ -7,6 +7,7 @@
   <a href="https://codeclimate.com/github/greta-code-pizza/indiega/maintainability"><img src="https://api.codeclimate.com/v1/badges/cbda502eb45e8c3563f6/maintainability" /></a>
 </div>
 
+---
 
 ### Introduction
 
