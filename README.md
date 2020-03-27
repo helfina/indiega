@@ -10,4 +10,4 @@
 
 ### Introduction
 
-![Screenshot website](./github/images/screenshot.png)
+![Screenshot website](./.github/images/screenshot.png)
